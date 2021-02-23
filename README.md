@@ -2,7 +2,7 @@
 Finds Aliquot cycles. It also finds how many of those Aliquot cycles included Perfect or Amicable numbers.
 
 ## What is an Aliquot cycle?
-In mathematics, an **Aliquot sequence** is a sequence of positive integers in which each term is the sum of the proper divisors of the previous term.  
+In mathematics, an **Aliquot sequence** is a sequence of positive integers in which each term is the sum of the proper divisors of the previous term.
 If the sequence reaches the number 1, it ends, because the sum of the proper divisors of 1 is 0.
 
 Numbers whose Aliquot sequence terminates in a cycle belong to an **Aliquot cycle**.

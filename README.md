@@ -1,5 +1,5 @@
 # Aliquot Cycles Finder
-Finds Aliquot cycles. It also finds how many of those Aliquot cycles included Perfect or Amicable numbers.
+A program that finds Aliquot cycles. It also finds how many of those Aliquot cycles included Perfect or Amicable numbers.
 
 ## What is an Aliquot cycle?
 In mathematics, an **Aliquot sequence** is a sequence of positive integers in which each term is the sum of the proper divisors of the previous term.
